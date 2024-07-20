@@ -21,7 +21,7 @@
 
 **Interactive Tooltips:** Hover over any data point to get detailed information.
 
-**Navigation Icons:** Easily navigate through different sections using the icons at the left.
+**Navigation Icons:** Easily navigate through different sections using the icons at the left of the screen.
 
 ## Tableau Dashboard Preview
 **Dashboard Snapshots:**
