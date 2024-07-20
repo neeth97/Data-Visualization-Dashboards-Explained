@@ -25,8 +25,9 @@
 
 ## Tableau Dashboard Preview
 **Dashboard Snapshots:**
-<img width="1374" alt="Screenshot 2024-07-19 at 12 11 18 PM" src="https://github.com/user-attachments/assets/b2a5fcad-d224-45cf-a309-960f72180e5f">
-<img width="1373" alt="Screenshot 2024-07-19 at 12 11 44 PM" src="https://github.com/user-attachments/assets/6d8829be-c021-4ec7-8c5f-7a82ff2a835a">
+<img width="1373" alt="Screenshot 2024-07-19 at 12 11 44 PM" src="https://github.com/user-attachments/assets/fd237f33-f87a-4ae4-b686-b284c875a0a8">
+<img width="1374" alt="Screenshot 2024-07-19 at 12 11 18 PM" src="https://github.com/user-attachments/assets/f9c7f554-d03c-4ca6-a00f-d43d2f12751f">
+
 
 ## Tableau Public
 You can explore the dashboard on Tableau Public [here.](https://public.tableau.com/app/profile/praneeth.kruthiventi/viz/InteractiveDashboardforHouseSalesinKingCounty/Dashboard1)
