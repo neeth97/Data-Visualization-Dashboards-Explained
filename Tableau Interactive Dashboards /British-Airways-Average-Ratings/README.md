@@ -24,9 +24,10 @@
 
 ## Tableau Dashboard Preview
 **Dashboard Snapshots:**
-<img width="1197" alt="Screenshot 2024-07-17 at 11 47 30 PM" src="https://github.com/user-attachments/assets/4ebffd1f-7d0c-476a-a59c-ad29564c4fe6">
-<img width="1202" alt="Screenshot 2024-07-17 at 11 46 28 PM" src="https://github.com/user-attachments/assets/2fa9eae7-20aa-4b05-bcd9-03490d5193f5">
-<img width="1200" alt="Screenshot 2024-07-17 at 11 46 46 PM" src="https://github.com/user-attachments/assets/708a3fa4-dbbf-4d32-a304-b443f2bb4d2a">
+<img width="1202" alt="Screenshot 2024-07-17 at 11 46 28 PM" src="https://github.com/user-attachments/assets/9245f010-55a1-4ccb-93a3-b7b05221909b">
+<img width="1200" alt="Screenshot 2024-07-17 at 11 46 46 PM" src="https://github.com/user-attachments/assets/eb992d5d-7485-493c-8268-738435de2f7b">
+<img width="1197" alt="Screenshot 2024-07-17 at 11 47 30 PM" src="https://github.com/user-attachments/assets/b7674711-a16a-47c1-9397-84e963054a49">
+
 
 ## Tableau Public
 You can explore the dashboard on Tableau Public [here.](https://public.tableau.com/app/profile/praneeth.kruthiventi/viz/InteractiveDashboardtoVisualiseAverageRatingforBritishAirways/Dashboard1)
