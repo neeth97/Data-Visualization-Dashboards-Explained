@@ -24,8 +24,10 @@
 
 ## Tableau Dashboard Preview
 **Dashboard Snapshots:**
-<img width="1410" alt="Screenshot 2024-07-17 at 12 40 52 AM" src="https://github.com/user-attachments/assets/c76394da-a27e-4562-a74b-221b4b9697bd">
-<img width="1414" alt="Screenshot 2024-07-17 at 12 40 42 AM" src="https://github.com/user-attachments/assets/0d467ca7-b544-4dcc-a97a-5d6b98a35793">
+<img width="1410" alt="Screenshot 2024-07-17 at 12 41 15 AM" src="https://github.com/user-attachments/assets/35712f68-db36-406e-9867-0e05d9d94e2e">
+<img width="1410" alt="Screenshot 2024-07-17 at 12 40 52 AM" src="https://github.com/user-attachments/assets/543680e6-4f0d-4186-a816-ef75a6293b7e">
+<img width="1414" alt="Screenshot 2024-07-17 at 12 40 42 AM" src="https://github.com/user-attachments/assets/08af827a-a10f-4dd2-ae9a-0a2c5969406a">
+
 
 
 ## Tableau Public
