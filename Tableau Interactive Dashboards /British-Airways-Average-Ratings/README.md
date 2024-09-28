@@ -3,6 +3,9 @@
 ## Data
 [British Airways Average Ratings](https://github.com/mochen862/tableau-end-to-end-portfolio-project)
 
+## Tableau Public
+You can explore the dashboard on Tableau Public [here.](https://public.tableau.com/app/profile/praneeth.kruthiventi/viz/InteractiveDashboardtoVisualiseAverageRatingforBritishAirways/Dashboard1)
+
 ## Tableau Dashboard Visual Sections
 **Summary of British Airways:** Captures the average rating of British Airways across 7 different metrics: Overall Rating, Cabin Staff Service, Entertainment, Food, Ground Service, Seat Comfort, and Value.
 
@@ -27,7 +30,3 @@
 <img width="1202" alt="Screenshot 2024-07-17 at 11 46 28 PM" src="https://github.com/user-attachments/assets/9245f010-55a1-4ccb-93a3-b7b05221909b">
 <img width="1200" alt="Screenshot 2024-07-17 at 11 46 46 PM" src="https://github.com/user-attachments/assets/eb992d5d-7485-493c-8268-738435de2f7b">
 <img width="1197" alt="Screenshot 2024-07-17 at 11 47 30 PM" src="https://github.com/user-attachments/assets/b7674711-a16a-47c1-9397-84e963054a49">
-
-
-## Tableau Public
-You can explore the dashboard on Tableau Public [here.](https://public.tableau.com/app/profile/praneeth.kruthiventi/viz/InteractiveDashboardtoVisualiseAverageRatingforBritishAirways/Dashboard1)
