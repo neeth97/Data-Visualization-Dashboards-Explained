@@ -3,6 +3,9 @@
 ## Data
 [London Bike Sharing Dataset from Kaggle.](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
 
+## Tableau Public
+You can explore the dashboard on Tableau Public [here.](https://public.tableau.com/app/profile/praneeth.kruthiventi/viz/InteractiveDashboardtoVisualiseMovingAveragesforBikeRides_/Dashboard1)
+
 ## Tableau Dashboard Visual Sections
 **Total Number of Bike Riders:** Captures the total number of bike riders in the selected time frame.
 
@@ -27,9 +30,3 @@
 <img width="1410" alt="Screenshot 2024-07-17 at 12 41 15 AM" src="https://github.com/user-attachments/assets/35712f68-db36-406e-9867-0e05d9d94e2e">
 <img width="1410" alt="Screenshot 2024-07-17 at 12 40 52 AM" src="https://github.com/user-attachments/assets/543680e6-4f0d-4186-a816-ef75a6293b7e">
 <img width="1414" alt="Screenshot 2024-07-17 at 12 40 42 AM" src="https://github.com/user-attachments/assets/08af827a-a10f-4dd2-ae9a-0a2c5969406a">
-
-
-
-## Tableau Public
-You can explore the dashboard on Tableau Public [here.](https://public.tableau.com/app/profile/praneeth.kruthiventi/viz/InteractiveDashboardtoVisualiseMovingAveragesforBikeRides_/Dashboard1)
-
