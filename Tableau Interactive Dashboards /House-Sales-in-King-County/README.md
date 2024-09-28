@@ -3,6 +3,9 @@
 ## Data
 [King County House Data](https://github.com/mochen862/king-county-house-sales)
 
+## Tableau Public
+You can explore the dashboard on Tableau Public [here.](https://public.tableau.com/app/profile/praneeth.kruthiventi/viz/InteractiveDashboardforHouseSalesinKingCounty/Dashboard1)
+
 ## Tableau Dashboard Visual Sections
 
 **Line Chart:** Captures information regarding the movement of the daily average price of the houses in the King County area.
@@ -27,8 +30,3 @@
 **Dashboard Snapshots:**
 <img width="1373" alt="Screenshot 2024-07-19 at 12 11 44 PM" src="https://github.com/user-attachments/assets/fd237f33-f87a-4ae4-b686-b284c875a0a8">
 <img width="1374" alt="Screenshot 2024-07-19 at 12 11 18 PM" src="https://github.com/user-attachments/assets/f9c7f554-d03c-4ca6-a00f-d43d2f12751f">
-
-
-## Tableau Public
-You can explore the dashboard on Tableau Public [here.](https://public.tableau.com/app/profile/praneeth.kruthiventi/viz/InteractiveDashboardforHouseSalesinKingCounty/Dashboard1)
-
