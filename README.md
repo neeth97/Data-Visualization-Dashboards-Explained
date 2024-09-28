@@ -1,4 +1,4 @@
-# Tableau Dashboards Explained.
+# Tableau Dashboards:
 
 ### [British Airways Average Ratings Dashboard.](https://github.com/neeth97/Tableau-Dashboards-Explained/tree/main/Tableau%20Interactive%20Dashboards%20/British-Airways-Average-Ratings#tableau-interactive-dashboard-for-british-airways-average-ratings-explained)
 ### [House Sales in King County Dashboard.](https://github.com/neeth97/Tableau-Dashboards-Explained/tree/main/Tableau%20Interactive%20Dashboards%20/House-Sales-in-King-County#interactive-dashboard-for-house-sales-in-king-county)
