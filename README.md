@@ -7,3 +7,6 @@
 ## Tableau Public
 You can explore all of my dashboards on Tableau Public [here.](https://public.tableau.com/app/profile/praneeth.kruthiventi/vizzes)
 
+# Excel Dashboards:
+
+### [Coffee Sales Dashboard.](https://github.com/neeth97/Data-Visualization-Dashboards-Explained/tree/main/Excel%20Interactive%20Dashboards/Coffee%20Sales%20Dashboard)
